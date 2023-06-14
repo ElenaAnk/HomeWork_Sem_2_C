@@ -3,7 +3,7 @@
 //78 -> третьей цифры нет
 //32679 -> 6
 
-int num = new Random().Next(0, 10001);
+int num = new Random().Next(0, 100001);
 int num1 = num;
 
 while(num1>999)
